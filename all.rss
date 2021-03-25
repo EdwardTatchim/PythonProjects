@@ -1,0 +1,662 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:mi="http://schemas.ingestion.microsoft.com/common/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:slate="https://slate.com">
+	<channel>
+		<title>Slate Magazine</title>
+		<description>Slate RSS</description>
+		<link>https://slate.com/</link>
+		<lastBuildDate>Mon, 06 Apr 2020 21:06:58 +0000</lastBuildDate>
+		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
+		<copyright>2020</copyright>
+		<generator>Feed delivered by Clay</generator>
+		<item>
+			<slate:id>ck8oycovc000unnjf1ptdbvub</slate:id>
+			<title><![CDATA[The Creator of <em>Murder House Flip </em>on Why He Wanted to Flip Murder Houses]]></title>
+			<link>https://slate.com/culture/2020/04/murder-house-flip-quibi-series-creator-interview.html?via=rss</link>
+			<pubDate>Mon, 06 April 2020 21:02:42 +0000</pubDate>
+			<guid isPermaLink="true">https://slate.com/culture/2020/04/murder-house-flip-quibi-series-creator-interview.html</guid>
+			<description><![CDATA[The Quibi series’ showrunner wanted to be involved from the moment he heard its name.]]></description>
+			<dc:creator>Sam Adams</dc:creator>
+			<media:content url="https://compote.slate.com/images/d6ed7c31-5deb-4330-b68a-9a9b91e14846.png?width=780&amp;height=520&amp;rect=987x658&amp;offset=172x32" medium="image">
+				<media:credit><![CDATA[Quibi]]></media:credit>
+				<media:description>A couple looks on in shock, whether it’s from a grisly discovery or wonder at their house’s gorgeous new makeover</media:description>
+			</media:content>
+		</item>
+		<item>
+			<slate:id>ck8oxgtg4000uc7mdp2hy1lsr</slate:id>
+			<title><![CDATA[British Prime Minister Boris Johnson Moved to ICU After Coronavirus Symptoms “Worsened”]]></title>
+			<link>https://slate.com/news-and-politics/2020/04/boris-johnson-icu-coronavirus-symptoms.html?via=rss</link>
+			<pubDate>Mon, 06 April 2020 20:52:01 +0000</pubDate>
+			<guid isPermaLink="true">https://slate.com/news-and-politics/2020/04/boris-johnson-icu-coronavirus-symptoms.html</guid>
+			<description><![CDATA[Earlier in the day, British officials assured the public that Johnson was still healthy enough to remain “in charge” of the government.]]></description>
+			<dc:creator>Molly Olmstead</dc:creator>
+			<media:content url="https://compote.slate.com/images/9f9eb204-d0ad-4b9e-807e-680e1ac0232b.jpeg?width=780&amp;height=520&amp;rect=3103x2069&amp;offset=0x0" medium="image">
+				<media:credit><![CDATA[Jeff J. Mitchell/Getty Images]]></media:credit>
+				<media:title type="html"><![CDATA[British Prime Minister Boris Johnson on July 23 in London.]]></media:title>
+				<media:description>Boris Johnson holds up two fists.</media:description>
+			</media:content>
+		</item>
+		<item>
+			<slate:id>ck8oxed0u000uehkqbphieqdn</slate:id>
+			<title><![CDATA[“Like a Cruise Ship Mixed With a Nursing Home”: The Coronavirus Comes to Rikers]]></title>
+			<link>https://slate.com/technology/2020/04/coronavirus-covid19-rikers-island-jail-conditions-infections-freedom.html?via=rss</link>
+			<pubDate>Mon, 06 April 2020 20:51:55 +0000</pubDate>
+			<guid isPermaLink="true">https://slate.com/technology/2020/04/coronavirus-covid19-rikers-island-jail-conditions-infections-freedom.html</guid>
+			<description><![CDATA[The jail is not built for a crisis like this. And the situation unfolding is horrifying. There’s only one way to fix it.]]></description>
+			<dc:creator>Mary Harris</dc:creator>
+			<media:content url="https://compote.slate.com/images/8909778b-ee79-401e-9e73-8718e64658e9.jpeg?width=780&amp;height=520&amp;rect=6483x4322&amp;offset=0x0" medium="image">
+				<media:credit><![CDATA[Shannon Stapleton/Reuters]]></media:credit>
+				<media:title type="html"><![CDATA[The sign marking the entrance to the New York City Department of Correction Rikers Island facility, picture on Feb. 14, 2018.]]></media:title>
+				<media:description>A big sign says, &quot;Department of Correction, Rikers Island, Home of New York City&apos;s Boldest.&quot;</media:description>
+			</media:content>
+		</item>
+		<item>
+			<slate:id>ck8ourfbr000up4knmk8y7kun</slate:id>
+			<title><![CDATA[Our Newborn Has Been in the Hospital Since She Was Born. We Visit Her on Zoom.]]></title>
+			<link>https://slate.com/human-interest/2020/04/newborn-baby-coronavirus-pandemic-zoom.html?via=rss</link>
+			<pubDate>Mon, 06 April 2020 20:29:51 +0000</pubDate>
+			<guid isPermaLink="true">https://slate.com/human-interest/2020/04/newborn-baby-coronavirus-pandemic-zoom.html</guid>
+			<description><![CDATA[I’m still allowed in. My husband isn’t. He spends the night touching a video screen. ]]></description>
+			<dc:creator>Kelly Loudenberg</dc:creator>
+			<media:content url="https://compote.slate.com/images/a363a4ad-1aea-4f42-88f1-222ae260e6af.jpeg?width=780&amp;height=520&amp;rect=1560x1040&amp;offset=0x0" medium="image">
+			</media:content>
+		</item>
+		<item>
+			<slate:id>ck8ow4yro0019bpmdzz619pqb</slate:id>
+			<title><![CDATA[So About That Thermometer Data That Says Fevers Are on the Decline …]]></title>
+			<link>https://slate.com/technology/2020/04/kinsa-smart-thermometer-data-fevers-covid19.html?via=rss</link>
+			<pubDate>Mon, 06 April 2020 20:20:46 +0000</pubDate>
+			<guid isPermaLink="true">https://slate.com/technology/2020/04/kinsa-smart-thermometer-data-fevers-covid19.html</guid>
+			<description><![CDATA[If wealthier, tech-savvy people in the U.S. are spiking fewer fevers, that might not tell us anything about national trends.]]></description>
+			<dc:creator>Jane C. Hu</dc:creator>
+			<media:content url="https://compote.slate.com/images/3993b038-6ed8-47f6-9a0b-3fa61cf4f97d.jpeg?width=780&amp;height=520&amp;rect=1560x1040&amp;offset=0x0" medium="image">
+			</media:content>
+		</item>
+		<item>
+			<slate:id>ck8otaivf000zghkvwnlcl1dq</slate:id>
+			<title><![CDATA[The Signs of the Coronavirus]]></title>
+			<link>https://slate.com/business/2020/04/signs-coronavirus-windows-businesses.html?via=rss</link>
+			<pubDate>Mon, 06 April 2020 20:20:04 +0000</pubDate>
+			<guid isPermaLink="true">https://slate.com/business/2020/04/signs-coronavirus-windows-businesses.html</guid>
+			<description><![CDATA[They are funny. They are sad. They are proof our cities are human, even without all the humans.]]></description>
+			<dc:creator>Henry Grabar</dc:creator>
+			<media:content url="https://compote.slate.com/images/f810c04e-f041-4737-991a-986898c76854.jpeg?width=780&amp;height=520&amp;rect=1560x1040&amp;offset=0x0" medium="image">
+				<media:credit><![CDATA[Josh Edelson/AFP via Getty Images]]></media:credit>
+				<media:title type="html"><![CDATA[The signs in San Francisco.]]></media:title>
+				<media:description>Someone bikes by a Sunski storefront that reads &quot;We are in this together&quot; and &quot;The sun will rise again.&quot;</media:description>
+			</media:content>
+		</item>
+		<item>
+			<slate:id>ck8ow0szu000udom6imb4p8jy</slate:id>
+			<title><![CDATA[The Ousted Captain Who Acted to Save His Crew From the Coronavirus Deserves a Medal]]></title>
+			<link>https://slate.com/news-and-politics/2020/04/modly-crozier-theodore-roosevelt-coronavirus.html?via=rss</link>
+			<pubDate>Mon, 06 April 2020 19:53:01 +0000</pubDate>
+			<guid isPermaLink="true">https://slate.com/news-and-politics/2020/04/modly-crozier-theodore-roosevelt-coronavirus.html</guid>
+			<description><![CDATA[Trump’s Navy secretary is the one who should be fired. ]]></description>
+			<dc:creator>Fred Kaplan</dc:creator>
+			<media:content url="https://compote.slate.com/images/7662df25-d2b0-40bc-821d-02f1eae2b661.jpeg?width=780&amp;height=520&amp;rect=5713x3809&amp;offset=1x0" medium="image">
+				<media:credit><![CDATA[Chip Somodevilla/Getty Images]]></media:credit>
+				<media:title type="html"><![CDATA[Acting Navy Secretary Thomas Modly testifies on Capitol Hill on Dec. 3.]]></media:title>
+				<media:description>Thomas Modly testifying in Congress. </media:description>
+			</media:content>
+		</item>
+		<item>
+			<slate:id>ck8ovug3e000uezkqincaphwe</slate:id>
+			<title><![CDATA[Wisconsin Governor Postpones Election, Claiming Emergency Powers]]></title>
+			<link>https://slate.com/news-and-politics/2020/04/wisconsin-evers-cancel-election-state-supreme-court.html?via=rss</link>
+			<pubDate>Mon, 06 April 2020 19:51:31 +0000</pubDate>
+			<guid isPermaLink="true">https://slate.com/news-and-politics/2020/04/wisconsin-evers-cancel-election-state-supreme-court.html</guid>
+			<description><![CDATA[Hundreds of polling places have been shut down due to the pandemic, but Republicans still want the election to go on.]]></description>
+			<dc:creator>Mark Joseph Stern</dc:creator>
+			<media:content url="https://compote.slate.com/images/9f9d2e35-1836-43a6-a3c0-188ecbe04f36.jpeg?width=780&amp;height=520&amp;rect=4345x2897&amp;offset=0x0" medium="image">
+				<media:credit><![CDATA[Dylan Buell/Getty Images]]></media:credit>
+				<media:title type="html"><![CDATA[Wisconsin Gov. Tony Evers at the 48<sup>th</sup> annual Juneteenth Day Festival on June 19, 2019, in Milwaukee.]]></media:title>
+				<media:description>Evers speaks to the crowd, holding a mic in one hand and a clipboard in the other</media:description>
+			</media:content>
+		</item>
+		<item>
+			<slate:id>ck8otp2av000z65m4h4ak5thv</slate:id>
+			<title><![CDATA[Help! I Had an Extremely Vivid Sex Dream About My Best Friend.]]></title>
+			<link>https://slate.com/human-interest/2020/04/dear-prudence-sex-dreams-friends-relationships-advice.html?via=rss</link>
+			<pubDate>Mon, 06 April 2020 19:12:36 +0000</pubDate>
+			<guid isPermaLink="true">https://slate.com/human-interest/2020/04/dear-prudence-sex-dreams-friends-relationships-advice.html</guid>
+			<description><![CDATA[“Do you think this means anything?”]]></description>
+			<dc:creator>Danny M. Lavery</dc:creator>
+			<media:content url="https://compote.slate.com/images/404c92ea-a1ba-4a58-9f32-0e9c57a3b36e.jpeg?width=780&amp;height=520&amp;rect=1560x1040&amp;offset=0x0" medium="image">
+				<media:credit><![CDATA[Photo illustration by Slate. Photo by Kinga Cichewicz on Unsplash and Sharon McCutcheon on Unsplash.]]></media:credit>
+				<media:description>Collage of a woman sleeping with two women kissing above her. </media:description>
+			</media:content>
+		</item>
+		<item>
+			<slate:id>ck8orwa61000u9umcufctspmf</slate:id>
+			<title><![CDATA[How to Force the White House to Keep Us Safe in a Pandemic]]></title>
+			<link>https://slate.com/news-and-politics/2020/04/nancy-pelosi-white-house-covid-19-supplies.html?via=rss</link>
+			<pubDate>Mon, 06 April 2020 18:16:18 +0000</pubDate>
+			<guid isPermaLink="true">https://slate.com/news-and-politics/2020/04/nancy-pelosi-white-house-covid-19-supplies.html</guid>
+			<description><![CDATA[Only one institution can remedy this breakdown. ]]></description>
+			<dc:creator>Jonathan Gould and David Pozen</dc:creator>
+			<media:content url="https://compote.slate.com/images/7d409513-5346-45ca-8db6-e1fa0fc345c8.jpeg?width=780&amp;height=520&amp;rect=6720x4480&amp;offset=0x0" medium="image">
+				<media:credit><![CDATA[Alex Wong/Getty Images]]></media:credit>
+				<media:title type="html"><![CDATA[Nancy Pelosi has leverage, and she can use it.]]></media:title>
+				<media:description>Nancy Pelosi in a blue dress with a gold pin.</media:description>
+			</media:content>
+		</item>
+		<item>
+			<slate:id>ck8orh98r000u9ikqd3emboq2</slate:id>
+			<title><![CDATA[I Don’t Feel Safe in New York as an Asian Man]]></title>
+			<link>https://slate.com/human-interest/2020/04/anti-chinese-hate-crimes-new-york-coronavirus.html?via=rss</link>
+			<pubDate>Mon, 06 April 2020 17:56:21 +0000</pubDate>
+			<guid isPermaLink="true">https://slate.com/human-interest/2020/04/anti-chinese-hate-crimes-new-york-coronavirus.html</guid>
+			<description><![CDATA[It seems like every day someone else is punched, jumped, spat on. ]]></description>
+			<dc:creator>Ian Kumamoto</dc:creator>
+			<media:content url="https://compote.slate.com/images/4d8dd8fd-763a-4466-9c5d-cfef99193a3f.jpeg?width=780&amp;height=520&amp;rect=5036x3358&amp;offset=712x0" medium="image">
+				<media:credit><![CDATA[Angela Weiss/Getty Images]]></media:credit>
+				<media:title type="html"><![CDATA[A nearly empty street is seen in Chinatown on March 24 in New York City.]]></media:title>
+				<media:description>A nearly empty street in Chinatown on March 24, 2020 in New York City. - US lawmakers closed in on a deal Tuesday to help save the teetering economy by injecting nearly $2 trillion into pockets of struggling Americans, devastated businesses and hospitals struggling to contain the coronavirus pandemic. (Photo by Angela Weiss / AFP) (Photo by ANGELA WEISS/AFP via Getty Images)</media:description>
+			</media:content>
+		</item>
+		<item>
+			<slate:id>ck8or3ta3000uhijf5b1hxv18</slate:id>
+			<title><![CDATA[Why the Coronavirus Test Gives So Many False Negatives]]></title>
+			<link>https://slate.com/technology/2020/04/coronavirus-testing-false-negatives.html?via=rss</link>
+			<pubDate>Mon, 06 April 2020 17:46:44 +0000</pubDate>
+			<guid isPermaLink="true">https://slate.com/technology/2020/04/coronavirus-testing-false-negatives.html</guid>
+			<description><![CDATA[A great test is nothing with a bad sample.]]></description>
+			<dc:creator>Eleanor Cummins</dc:creator>
+			<media:content url="https://compote.slate.com/images/b38887b5-3594-4b7d-9ec3-1e9d9f627336.jpeg?width=780&amp;height=520&amp;rect=1560x1040&amp;offset=0x0" medium="image">
+				<media:credit><![CDATA[Robin van Lonkhuijsen/ANP/AFP via Getty Images]]></media:credit>
+				<media:title type="html"><![CDATA[Drive-thru testing in Rotterdam, Netherlands, on Monday.]]></media:title>
+				<media:description>A medical worker wearing protective gear pushes up a patient&apos;s nose with one hand and lowers a long swab toward the nose with the other hand</media:description>
+			</media:content>
+		</item>
+		<item>
+			<slate:id>ck8omiutw000zz9m3h664y9xb</slate:id>
+			<title><![CDATA[I Asked My Boyfriend to Be Honest About Sex With Me. I’m Devastated by His Response.]]></title>
+			<link>https://slate.com/human-interest/2020/04/boyfriend-sex-weight-gain-advice.html?via=rss</link>
+			<pubDate>Mon, 06 April 2020 15:47:36 +0000</pubDate>
+			<guid isPermaLink="true">https://slate.com/human-interest/2020/04/boyfriend-sex-weight-gain-advice.html</guid>
+			<description><![CDATA[I thought this is what these columns told me to do. ]]></description>
+			<dc:creator>Rich Juzwiak</dc:creator>
+			<media:content url="https://compote.slate.com/images/b3505fa1-200d-4c63-b44f-0451eed195a0.gif?width=780&amp;height=520&amp;rect=1560x1040&amp;offset=0x0" medium="image">
+				<media:credit><![CDATA[Photo illustration by Slate. Photo by Getty Images Plus.]]></media:credit>
+				<media:description>A woman holds her and up to her mouth. Fireworks go off in neon in the background.</media:description>
+			</media:content>
+		</item>
+		<item>
+			<slate:id>ck8nz7w7h001ucgkngygpv8r9</slate:id>
+			<title><![CDATA[Louis C.K.’s Newest Fans Deserve Louis C.K.’s Newest Special]]></title>
+			<link>https://slate.com/culture/2020/04/louis-ck-new-stand-up-special-sincerely-review.html?via=rss</link>
+			<pubDate>Mon, 06 April 2020 15:44:41 +0000</pubDate>
+			<guid isPermaLink="true">https://slate.com/culture/2020/04/louis-ck-new-stand-up-special-sincerely-review.html</guid>
+			<description><![CDATA[The way the comedian addresses his misconduct is worse than if he never brought it up at all.]]></description>
+			<dc:creator>Matthew Dessem</dc:creator>
+			<media:content url="https://compote.slate.com/images/344e040c-cb7e-4b11-9580-021b6cceccb2.jpeg?width=780&amp;height=520&amp;rect=1080x720&amp;offset=63x0" medium="image">
+				<media:credit><![CDATA[Louis C.K./Positive Image]]></media:credit>
+				<media:description>Comedian Louis C.K., wearing a blue T-shirt, holding a microphone on stage.</media:description>
+			</media:content>
+		</item>
+		<item>
+			<slate:id>ck8okc2jp000z3xkqu9w5lf74</slate:id>
+			<title><![CDATA[John Oliver Dives Deep Into Trump’s <em>Other </em>Favorite News Network]]></title>
+			<link>https://slate.com/culture/2020/04/last-week-tonight-john-oliver-trump-one-america-news.html?via=rss</link>
+			<pubDate>Mon, 06 April 2020 15:37:09 +0000</pubDate>
+			<guid isPermaLink="true">https://slate.com/culture/2020/04/last-week-tonight-john-oliver-trump-one-america-news.html</guid>
+			<description><![CDATA[“They are Fox News with even less shame and even fewer scruples.”]]></description>
+			<dc:creator>Marissa Martinelli</dc:creator>
+			<media:content url="https://compote.slate.com/images/5c326f70-7043-4f6b-a6b1-f545807481eb.png?width=780&amp;height=520&amp;rect=1161x774&amp;offset=139x0" medium="image">
+			</media:content>
+		</item>
+		<item>
+			<slate:id>ck8khh7tf003oukm65ayb7n00</slate:id>
+			<title><![CDATA[Give All My Data to Google and the CDC]]></title>
+			<link>https://slate.com/technology/2020/04/google-cdc-data-privacy-covid19.html?via=rss</link>
+			<pubDate>Mon, 06 April 2020 13:00:02 +0000</pubDate>
+			<guid isPermaLink="true">https://slate.com/technology/2020/04/google-cdc-data-privacy-covid19.html</guid>
+			<description><![CDATA[We can influence this rise in data collection in a privacy-protective way, but there will be bad actors who seek to exploit this crisis.]]></description>
+			<dc:creator>Tiffany C. Li</dc:creator>
+			<media:content url="https://compote.slate.com/images/1e8cd27b-7b2c-46a3-aeca-c454fd423878.jpeg?width=780&amp;height=520&amp;rect=2877x1918&amp;offset=0x0" medium="image">
+				<media:credit><![CDATA[<a href="https://unsplash.com/@ev?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">ev</a>/<a href="https://unsplash.com/s/photos/privacy?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>]]></media:credit>
+				<media:description>A sticker on a lamppost says &quot;Big data is watching you.&quot;</media:description>
+			</media:content>
+		</item>
+		<item>
+			<slate:id>ck8nurl6o000ucyknaz9vrpla</slate:id>
+			<title><![CDATA[Quibi Picked the Worst Time to Launch a Streaming Service for Short Attention Spans]]></title>
+			<link>https://slate.com/culture/2020/04/quibi-reese-witherspoon-lebron-james-chrissy-tiegen-review.html?via=rss</link>
+			<pubDate>Mon, 06 April 2020 11:30:02 +0000</pubDate>
+			<guid isPermaLink="true">https://slate.com/culture/2020/04/quibi-reese-witherspoon-lebron-james-chrissy-tiegen-review.html</guid>
+			<description><![CDATA[Or maybe the best?]]></description>
+			<dc:creator>Willa Paskin</dc:creator>
+			<media:content url="https://compote.slate.com/images/24285224-91e5-4827-9c2c-62e2fb59d81b.jpeg?width=780&amp;height=520&amp;rect=1560x1040&amp;offset=0x0" medium="image">
+				<media:credit><![CDATA[Photo illustration by Slate. Photos by Quibi.]]></media:credit>
+				<media:title type="html"><![CDATA[<em>I Promise</em>, <em>Run This City</em>, <em>Flipped</em>, and <em>Chrissy’s Court</em>.]]></media:title>
+			</media:content>
+		</item>
+		<item>
+			<slate:id>ck8kop10n0061u2m6ssrspmvt</slate:id>
+			<title><![CDATA[How <em>Divergent</em> Author Veronica Roth Learned to Write Better Villains]]></title>
+			<link>https://slate.com/culture/2020/04/veronica-roth-divergent-chosen-ones.html?via=rss</link>
+			<pubDate>Mon, 06 April 2020 10:30:00 +0000</pubDate>
+			<guid isPermaLink="true">https://slate.com/culture/2020/04/veronica-roth-divergent-chosen-ones.html</guid>
+			<description><![CDATA[The Divergent author on feedback, YA fiction, and shaping a series.]]></description>
+			<dc:creator>June Thomas</dc:creator>
+			<media:content url="https://compote.slate.com/images/1fd2464a-b0f1-4484-a744-6c8ff0ee0a11.jpeg?width=780&amp;height=520&amp;rect=1560x1040&amp;offset=0x0" medium="image">
+				<media:credit><![CDATA[Nelson Fitch]]></media:credit>
+				<media:title type="html"><![CDATA[Veronica Roth.]]></media:title>
+			</media:content>
+		</item>
+		<item>
+			<slate:id>ck8j62ttl0014ukm6czfw84k2</slate:id>
+			<title><![CDATA[Dear Care and Feeding: How Do We Convince Our Toddler That Terrorizing the Cats Is Not a Fun Quarantine Game?]]></title>
+			<link>https://slate.com/human-interest/2020/04/toddler-cat-terror-care-and-feeding.html?via=rss</link>
+			<pubDate>Mon, 06 April 2020 10:00:03 +0000</pubDate>
+			<guid isPermaLink="true">https://slate.com/human-interest/2020/04/toddler-cat-terror-care-and-feeding.html</guid>
+			<description><![CDATA[Parenting advice on terrorizing cats, nose-picking, and friends with trampolines.]]></description>
+			<dc:creator>Nicole Cliffe</dc:creator>
+			<media:content url="https://compote.slate.com/images/f7887f32-0f3a-45c8-ada6-23ad4a9ac556.jpeg?width=780&amp;height=520&amp;rect=1560x1040&amp;offset=0x0" medium="image">
+				<media:credit><![CDATA[Photo illustration by Slate. Photo by Getty Images Plus.]]></media:credit>
+				<media:description>A toddler &quot;petting&quot; a cat.</media:description>
+			</media:content>
+		</item>
+		<item>
+			<slate:id>ck8ki2ymd005jt2m442adlymk</slate:id>
+			<title><![CDATA[COVID-19 Should Make Us Rethink Our Destructive Relationship With the Natural World]]></title>
+			<link>https://slate.com/technology/2020/04/jane-goodall-coronavirus-species.html?via=rss</link>
+			<pubDate>Mon, 06 April 2020 09:45:02 +0000</pubDate>
+			<guid isPermaLink="true">https://slate.com/technology/2020/04/jane-goodall-coronavirus-species.html</guid>
+			<description><![CDATA[We need to chart another way forward.]]></description>
+			<dc:creator>Jane Goodall</dc:creator>
+			<media:content url="https://compote.slate.com/images/e33a36a4-798e-4cfe-9b4d-d361bce9aef8.jpeg?width=780&amp;height=520&amp;rect=1560x1040&amp;offset=0x0" medium="image">
+				<media:credit><![CDATA[Getty Images Plus.]]></media:credit>
+				<media:description>Close-up of a chimpanzee&apos;s face.</media:description>
+			</media:content>
+		</item>
+		<item>
+			<slate:id>ck8nnwfqf000nypm32omu583k</slate:id>
+			<title><![CDATA[Where Social Distancing Is Impossible]]></title>
+			<link>https://slate.com/podcasts/what-next/2020/04/rikers-isnt-prepared-for-this?via=rss</link>
+			<pubDate>Mon, 06 April 2020 09:00:00 +0000</pubDate>
+			<guid isPermaLink="true">https://slate.com/podcasts/what-next/2020/04/rikers-isnt-prepared-for-this</guid>
+			<description><![CDATA[Rikers Island was not built to slow a pandemic. ]]></description>
+			<dc:creator>Mary Harris</dc:creator>
+			<media:content url="https://compote.slate.com/images/3f84cd6d-938a-4b8a-8d9d-616d95ff20da.jpeg?width=780&amp;height=520&amp;rect=1560x1040&amp;offset=0x0" medium="image">
+			</media:content>
+		</item>
+		<item>
+			<slate:id>ck8kpneh0005i5ujfwty4gq7r</slate:id>
+			<title><![CDATA[Meet Rocco. He Owns a Dairy Queen. The Government’s Flawed Coronavirus Plan Might Not Save It.]]></title>
+			<link>https://slate.com/business/2020/04/cares-act-small-businesses-paycheck-protection-program-coronavirus.html?via=rss</link>
+			<pubDate>Mon, 06 April 2020 02:14:08 +0000</pubDate>
+			<guid isPermaLink="true">https://slate.com/business/2020/04/cares-act-small-businesses-paycheck-protection-program-coronavirus.html</guid>
+			<description><![CDATA[Why the small-business rescue isn't going to rescue some businesses.]]></description>
+			<dc:creator>Jordan Weissmann</dc:creator>
+			<media:content url="https://compote.slate.com/images/db14c845-47f9-42ba-b839-4f89514616b6.jpeg?width=780&amp;height=520&amp;rect=3500x2333&amp;offset=0x0" medium="image">
+				<media:credit><![CDATA[Andrew Burton/Getty Images]]></media:credit>
+				<media:title type="html"><![CDATA[We’re all weathering an economic blizzard.]]></media:title>
+				<media:description>A S&apos;mores flavored blizzard is seen at a Dairy Queen. It has a red straw, and the Dairy Queen logo.</media:description>
+			</media:content>
+		</item>
+		<item>
+			<slate:id>ck8ntmev6000ub6kvb0bruxqe</slate:id>
+			<title><![CDATA[Trump Keeps Promoting Unproven Drug for the Coronavirus: “I’m Not a Doctor. But I Have Common Sense.”]]></title>
+			<link>https://slate.com/news-and-politics/2020/04/trump-promoting-unproven-drug-hydroxychloroquine-coronavirus.html?via=rss</link>
+			<pubDate>Mon, 06 April 2020 02:08:29 +0000</pubDate>
+			<guid isPermaLink="true">https://slate.com/news-and-politics/2020/04/trump-promoting-unproven-drug-hydroxychloroquine-coronavirus.html</guid>
+			<description><![CDATA[Anthony Fauci and Peter Navarro reportedly got into a heated argument over whether to promote the treatment for COVID-19.]]></description>
+			<dc:creator>Daniel Politi</dc:creator>
+			<media:content url="https://compote.slate.com/images/1d695dca-ddbb-4506-a4f9-8c2a3b039d67.jpeg?width=780&amp;height=520&amp;rect=5568x3712&amp;offset=0x0" medium="image">
+				<media:credit><![CDATA[Eric Baradat/Getty Images]]></media:credit>
+				<media:title type="html"><![CDATA[President Donald Trump speaks during Sunday’s briefing at the White House]]></media:title>
+				<media:description>Donald Trump.</media:description>
+			</media:content>
+		</item>
+		<item>
+			<slate:id>ck8nqrz7w001p1pm60zodritt</slate:id>
+			<title><![CDATA[British Prime Minister Boris Johnson Admitted to Hospital for Coronavirus]]></title>
+			<link>https://slate.com/news-and-politics/2020/04/boris-johnson-admitted-hospital-coronavirus.html?via=rss</link>
+			<pubDate>Mon, 06 April 2020 00:43:10 +0000</pubDate>
+			<guid isPermaLink="true">https://slate.com/news-and-politics/2020/04/boris-johnson-admitted-hospital-coronavirus.html</guid>
+			<description><![CDATA[Johnson’s office characterized the admission to an undisclosed London hospital as a “precautionary step.”]]></description>
+			<dc:creator>Daniel Politi</dc:creator>
+			<media:content url="https://compote.slate.com/images/87e04740-b5f6-4803-b1ae-ff36bb3dee8d.jpeg?width=780&amp;height=520&amp;rect=3660x2440&amp;offset=2034x375" medium="image">
+				<media:credit><![CDATA[WPA Pool/Getty Images]]></media:credit>
+				<media:title type="html"><![CDATA[Prime Minister Boris Johnson at 10 Downing Street on March 25.]]></media:title>
+				<media:description>Boris Johnson holds a corded phone up to his ear.</media:description>
+			</media:content>
+		</item>
+		<item>
+			<slate:id>ck8noooa0000u1pm6wjixrawa</slate:id>
+			<title><![CDATA[Bronx Zoo Tiger Is First of Its Kind to Test Positive For Coronavirus]]></title>
+			<link>https://slate.com/news-and-politics/2020/04/bronx-zoo-tiger-tests-positive-coronavirus.html?via=rss</link>
+			<pubDate>Sun, 05 April 2020 23:50:20 +0000</pubDate>
+			<guid isPermaLink="true">https://slate.com/news-and-politics/2020/04/bronx-zoo-tiger-tests-positive-coronavirus.html</guid>
+			<description><![CDATA[An asymptomatic staff member is believed to have infected the 4-year-old female Malayan tiger.]]></description>
+			<dc:creator>Daniel Politi</dc:creator>
+			<media:content url="https://compote.slate.com/images/3c5e71f1-d682-4b00-b734-3dedf135e883.jpeg?width=780&amp;height=520&amp;rect=2309x1539&amp;offset=0x1248" medium="image">
+				<media:credit><![CDATA[Wildlife Conservation Society]]></media:credit>
+				<media:title type="html"><![CDATA[Nadia, a four-year-old female Malayan tiger at the Bronx Zoo, is seen in an undated photo provided by the zoo in New York.]]></media:title>
+			</media:content>
+		</item>
+		<item>
+			<slate:id>ck8kpg2qk00544ikvcitopwm3</slate:id>
+			<title><![CDATA[One Restaurant’s Struggle to Weather the Pandemic]]></title>
+			<link>https://slate.com/business/2020/04/coronavirus-restaurant-closures-thamee.html?via=rss</link>
+			<pubDate>Sun, 05 April 2020 23:00:04 +0000</pubDate>
+			<guid isPermaLink="true">https://slate.com/business/2020/04/coronavirus-restaurant-closures-thamee.html</guid>
+			<description><![CDATA[Thamee opened in 2019 to great acclaim. Then the coronavirus hit.]]></description>
+			<dc:creator>Christina Cauterucci</dc:creator>
+			<media:content url="https://compote.slate.com/images/592b0125-b895-4583-8ed8-f3607b128389.jpeg?width=780&amp;height=520&amp;rect=960x640&amp;offset=193x0" medium="image">
+			</media:content>
+		</item>
+		<item>
+			<slate:id>ck8nm5han004j08mc0ksb6lwr</slate:id>
+			<title><![CDATA[Real Coronavirus Death Toll in U.S. Is Higher Than  Official Number]]></title>
+			<link>https://slate.com/news-and-politics/2020/04/real-coronavirus-death-toll-higher-than-official-number.html?via=rss</link>
+			<pubDate>Sun, 05 April 2020 22:43:30 +0000</pubDate>
+			<guid isPermaLink="true">https://slate.com/news-and-politics/2020/04/real-coronavirus-death-toll-higher-than-official-number.html</guid>
+			<description><![CDATA[Lots of people who died in their houses or nursing homes were never tested, leading to an undercounting of COVID-19 deaths.]]></description>
+			<dc:creator>Daniel Politi</dc:creator>
+			<media:content url="https://compote.slate.com/images/0ea96e32-65f7-457d-86ff-7bb9df76d1ab.jpeg?width=780&amp;height=520&amp;rect=4000x2667&amp;offset=0x0" medium="image">
+				<media:credit><![CDATA[Bryan R. Smith/Getty Images]]></media:credit>
+				<media:title type="html"><![CDATA[A hearse arrives Sunday to transport a body from a refrigeration truck serving as a temporary morgue outside of Wyckoff Hospital in Brooklyn, New York.]]></media:title>
+				<media:description>A hearse arrives to transport a body from a refrigeration truck serving as a temporary morgue outside of Wyckoff Hospital in the Bushwick section of Brooklyn April 5, 2020 in New York. </media:description>
+			</media:content>
+		</item>
+		<item>
+			<slate:id>ck8j61gwg000z0qmcl4tdkqhn</slate:id>
+			<title><![CDATA[Can You Even Job Search Right Now?]]></title>
+			<link>https://slate.com/human-interest/2020/04/job-hunting-coronavirus-hiring-freeze-unemployment.html?via=rss</link>
+			<pubDate>Sun, 05 April 2020 22:00:02 +0000</pubDate>
+			<guid isPermaLink="true">https://slate.com/human-interest/2020/04/job-hunting-coronavirus-hiring-freeze-unemployment.html</guid>
+			<description><![CDATA[Job hunting can be difficult at the best of times. It’s absolutely dismal right now.]]></description>
+			<dc:creator>Alison Green</dc:creator>
+			<media:content url="https://compote.slate.com/images/5d69c363-3b8b-458f-9898-a4bb5dd14bd8.jpeg" medium="image">
+			</media:content>
+		</item>
+		<item>
+			<slate:id>ck8nigcqk007iximfwihzhsos</slate:id>
+			<title><![CDATA[Coronavirus: Federal Agencies Waited Until Mid-March to Place Bulk Orders for Masks]]></title>
+			<link>https://slate.com/news-and-politics/2020/04/coronavirus-federal-agencies-wasted-time-pandemic-masks.html?via=rss</link>
+			<pubDate>Sun, 05 April 2020 20:48:34 +0000</pubDate>
+			<guid isPermaLink="true">https://slate.com/news-and-politics/2020/04/coronavirus-federal-agencies-wasted-time-pandemic-masks.html</guid>
+			<description><![CDATA[The Trump administration wasted critical opportunities to get ahead of the COVID-19 crisis. ]]></description>
+			<dc:creator>Daniel Politi</dc:creator>
+			<media:content url="https://compote.slate.com/images/1c1ac61a-1887-4fe1-a23c-9e5c94cc8cde.jpeg?width=780&amp;height=520&amp;rect=6572x4381&amp;offset=0x0" medium="image">
+				<media:credit><![CDATA[Mario Tama/Getty Images]]></media:credit>
+				<media:title type="html"><![CDATA[A nurse holds up a sign to protest the lack of personal protective gear available at UCI Medical Center amid the coronavirus pandemic on April 3, 2020 in Orange, California.]]></media:title>
+			</media:content>
+		</item>
+		<item>
+			<slate:id>ck8nbky0e007g5aknpqj4gtr1</slate:id>
+			<title><![CDATA[Surgeon General: “This Is Going to Be the Hardest and the Saddest Week of Most Americans’ Lives”]]></title>
+			<link>https://slate.com/news-and-politics/2020/04/coronavirus-surgeon-general-hardest-saddest-week-pearl-harbor.html?via=rss</link>
+			<pubDate>Sun, 05 April 2020 17:36:52 +0000</pubDate>
+			<guid isPermaLink="true">https://slate.com/news-and-politics/2020/04/coronavirus-surgeon-general-hardest-saddest-week-pearl-harbor.html</guid>
+			<description><![CDATA[It marks a stark change in tone for Jerome Adams, who a few weeks ago suggested Americans should be more concerned about the flu than the coronavirus. ]]></description>
+			<dc:creator>Daniel Politi</dc:creator>
+			<media:content url="https://compote.slate.com/images/5c7ec473-1a41-4b0a-9000-04f163279568.jpeg?width=780&amp;height=520&amp;rect=4394x2929&amp;offset=0x0" medium="image">
+				<media:credit><![CDATA[Win McNamee/Getty Images]]></media:credit>
+				<media:title type="html"><![CDATA[Surgeon General Jerome Adams speaks at Friday’s briefing at the White House.]]></media:title>
+				<media:description>Surgeon General Jerome Adams speaks while flanked by President Donald Trump.</media:description>
+			</media:content>
+		</item>
+		<item>
+			<slate:id>ck8n49ww3004mtokqfza1dxy8</slate:id>
+			<title><![CDATA[Some Senior Sanders Aides Are Urging Him to Drop Out of Presidential Race]]></title>
+			<link>https://slate.com/news-and-politics/2020/04/senior-bernie-sanders-aides-urging-drop-out-presidential-race.html?via=rss</link>
+			<pubDate>Sun, 05 April 2020 14:11:45 +0000</pubDate>
+			<guid isPermaLink="true">https://slate.com/news-and-politics/2020/04/senior-bernie-sanders-aides-urging-drop-out-presidential-race.html</guid>
+			<description><![CDATA[What happens in Wisconsin's primary on Tuesday could be key as polls predict a big victory for Joe Biden.]]></description>
+			<dc:creator>Daniel Politi</dc:creator>
+			<media:content url="https://compote.slate.com/images/0fb1642b-fdc9-45d2-8264-2aa491ea8c96.jpeg?width=780&amp;height=520&amp;rect=6352x4235&amp;offset=0x0" medium="image">
+				<media:credit><![CDATA[Win McNamee/Getty Images]]></media:credit>
+				<media:title type="html"><![CDATA[Sen. Bernie Sanders arrives at the U.S. Capitol for a vote on March 18, 2020 in Washington, D.C.]]></media:title>
+			</media:content>
+		</item>
+		<item>
+			<slate:id>ck8kdw3vx003m5cjfdmlbfz0s</slate:id>
+			<title><![CDATA[Dear Care and Feeding: I’m Worried My Stepdaughter Will Expose My Family to COVID-19]]></title>
+			<link>https://slate.com/human-interest/2020/04/coronavirus-custody-coparenting-care-and-feeding.html?via=rss</link>
+			<pubDate>Sun, 05 April 2020 12:00:01 +0000</pubDate>
+			<guid isPermaLink="true">https://slate.com/human-interest/2020/04/coronavirus-custody-coparenting-care-and-feeding.html</guid>
+			<description><![CDATA[Parenting advice on co-parenting with an ex, custody arrangements, and toddler development.]]></description>
+			<dc:creator>Michelle Herman</dc:creator>
+			<media:content url="https://compote.slate.com/images/b75972d0-b681-4a6c-b4b6-88ad0c2b9748.jpeg?width=780&amp;height=520&amp;rect=1560x1040&amp;offset=0x0" medium="image">
+				<media:credit><![CDATA[Photo illustration by Slate. Photo by Getty Images Plus.]]></media:credit>
+				<media:description>A mom clasping her hands to her mouth, looking worried</media:description>
+			</media:content>
+		</item>
+		<item>
+			<slate:id>ck8j9r6se001qm2m3xai2rssa</slate:id>
+			<title><![CDATA[Flashback: <em>Fast Times at Ridgemont High </em>(1982)]]></title>
+			<link>https://slate.com/podcasts/flashback/2020/04/flashback-podcast-fast-times-at-ridgemont-high-1982?via=rss</link>
+			<pubDate>Sun, 05 April 2020 10:01:01 +0000</pubDate>
+			<guid isPermaLink="true">https://slate.com/podcasts/flashback/2020/04/flashback-podcast-fast-times-at-ridgemont-high-1982</guid>
+			<description><![CDATA[Amy Heckerling’s '80s comedy sincerely captured how it felt to be on the cusp of adulthood.]]></description>
+			<dc:creator>Dana Stevens and K. Austin Collins</dc:creator>
+			<media:content url="https://compote.slate.com/images/c51ebb3b-ae93-4380-bb1d-f881d3215762.jpeg?width=780&amp;height=520&amp;rect=1200x800&amp;offset=0x0" medium="image">
+			</media:content>
+		</item>
+		<item>
+			<slate:id>ck8koxler003c40kve017dbdm</slate:id>
+			<title><![CDATA[How <em>Divergent</em> Author Veronica Roth Learns From Criticism]]></title>
+			<link>https://slate.com/podcasts/working/2020/04/veronica-roth-writing-interview?via=rss</link>
+			<pubDate>Sun, 05 April 2020 10:00:05 +0000</pubDate>
+			<guid isPermaLink="true">https://slate.com/podcasts/working/2020/04/veronica-roth-writing-interview</guid>
+			<description><![CDATA[And how Kate Winslet helped.]]></description>
+			<dc:creator>June Thomas</dc:creator>
+			<media:content url="https://compote.slate.com/images/69ade813-f08c-4e5e-82a5-657289020554.jpeg?width=780&amp;height=520&amp;rect=1560x1040&amp;offset=0x0" medium="image">
+			</media:content>
+		</item>
+		<item>
+			<slate:id>ck8kl8rnj006et2m4n2iwu76k</slate:id>
+			<title><![CDATA[<em>Pokémon Go</em> Is Thriving Even Though Everyone’s at Home]]></title>
+			<link>https://slate.com/culture/2020/04/pokemon-go-coronavirus-profiteering.html?via=rss</link>
+			<pubDate>Sun, 05 April 2020 09:40:02 +0000</pubDate>
+			<guid isPermaLink="true">https://slate.com/culture/2020/04/pokemon-go-coronavirus-profiteering.html</guid>
+			<description><![CDATA[Two longtime players debate whether the game’s adjustments represent good social distancing—or profiteering.]]></description>
+			<dc:creator>Sam Adams and Marissa Martinelli</dc:creator>
+			<media:content url="https://compote.slate.com/images/18ba92e4-e39b-44a3-af3b-88f735703fa7.png?width=780&amp;height=520&amp;rect=1560x1040&amp;offset=0x0" medium="image">
+				<media:credit><![CDATA[Photo illustration by Derreck Johnson. Image via Nintendo.]]></media:credit>
+				<media:description>Pikachu leaps forth, wearing a surgical mask and gloves</media:description>
+			</media:content>
+		</item>
+		<item>
+			<slate:id>ck8mbbdl900615akn6r0tz32j</slate:id>
+			<title><![CDATA[Trump Warns “There Will Be a Lot of Death” in “Toughest Week” for Coronavirus Crisis]]></title>
+			<link>https://slate.com/news-and-politics/2020/04/coronavirus-trump-warns-a-lot-of-death.html?via=rss</link>
+			<pubDate>Sun, 05 April 2020 00:40:28 +0000</pubDate>
+			<guid isPermaLink="true">https://slate.com/news-and-politics/2020/04/coronavirus-trump-warns-a-lot-of-death.html</guid>
+			<description><![CDATA[The president said the Pentagon would be sending 1,000 medical personnel to New York.]]></description>
+			<dc:creator>Daniel Politi</dc:creator>
+			<media:content url="https://compote.slate.com/images/efdf9b83-2b0c-44b7-b6ed-67bfdfac3943.jpeg?width=780&amp;height=520&amp;rect=4546x3031&amp;offset=0x331" medium="image">
+				<media:credit><![CDATA[Sarah Silbiger/Getty Images]]></media:credit>
+				<media:title type="html"><![CDATA[President Donald Trump speaks at a press briefing with members of the White House Coronavirus Task Force on April 4, 2020 in Washington, D.C.]]></media:title>
+			</media:content>
+		</item>
+		<item>
+			<slate:id>ck8m7c7zn003rtokqdl0wg5pf</slate:id>
+			<title><![CDATA[China Sends 1,000 Ventilators to New York as Coronavirus Deaths Surge]]></title>
+			<link>https://slate.com/news-and-politics/2020/04/china-ventilators-new-york-coronavirus.html?via=rss</link>
+			<pubDate>Sat, 04 April 2020 22:57:18 +0000</pubDate>
+			<guid isPermaLink="true">https://slate.com/news-and-politics/2020/04/china-ventilators-new-york-coronavirus.html</guid>
+			<description><![CDATA[Trump accused governors of requesting more equipment than they need.]]></description>
+			<dc:creator>Daniel Politi</dc:creator>
+			<media:content url="https://compote.slate.com/images/02a70787-8365-4d29-96c4-cfc7fbcbea16.jpeg?width=780&amp;height=520&amp;rect=4000x2667&amp;offset=0x0" medium="image">
+				<media:credit><![CDATA[BRYAN R. SMITH/Getty Images]]></media:credit>
+				<media:title type="html"><![CDATA[People wear masks while walking in the Borough of Brooklyn on April 4, 2020 in New York.]]></media:title>
+			</media:content>
+		</item>
+		<item>
+			<slate:id>ck8lym9b0006iximfc1nw9ie7</slate:id>
+			<title><![CDATA[Who Do We Expect to Sacrifice?]]></title>
+			<link>https://slate.com/news-and-politics/2020/04/coronavirus-deaths-essential-workers.html?via=rss</link>
+			<pubDate>Sat, 04 April 2020 19:25:12 +0000</pubDate>
+			<guid isPermaLink="true">https://slate.com/news-and-politics/2020/04/coronavirus-deaths-essential-workers.html</guid>
+			<description><![CDATA[This country has deposited its massive, collapsing weight on a small, utterly unsupported group.]]></description>
+			<dc:creator>Lili Loofbourow</dc:creator>
+			<media:content url="https://compote.slate.com/images/0c27b340-b9c1-4c65-a29d-331ba3c88af7.jpeg?width=780&amp;height=520&amp;rect=1248x832&amp;offset=312x137" medium="image">
+				<media:credit><![CDATA[ER Productions Limited/DigitalVision via Getty Images Plus.]]></media:credit>
+				<media:title type="html"><![CDATA[What is the price of their lives?]]></media:title>
+				<media:description>A medical professional helps another professional put on a mask.</media:description>
+			</media:content>
+		</item>
+		<item>
+			<slate:id>ck8lujatg005q5sknmcjcvz3a</slate:id>
+			<title><![CDATA[Two Amazon Workers Explain Why They Walked Off the Job for COVID-19 Protections]]></title>
+			<link>https://slate.com/technology/2020/04/amazon-fulfillment-center-strike-staten-island-michigan.html?via=rss</link>
+			<pubDate>Sat, 04 April 2020 17:06:12 +0000</pubDate>
+			<guid isPermaLink="true">https://slate.com/technology/2020/04/amazon-fulfillment-center-strike-staten-island-michigan.html</guid>
+			<description><![CDATA[They cite absent managers, too few cleaning supplies, and too many nonessential orders.]]></description>
+			<dc:creator>Aaron Mak</dc:creator>
+			<media:content url="https://compote.slate.com/images/03920019-f66e-4cb6-b719-1ab55eacfbf6.jpeg?width=780&amp;height=520&amp;rect=4509x3006&amp;offset=0x0" medium="image">
+				<media:credit><![CDATA[Angela Weiss/AFP via Getty Images]]></media:credit>
+				<media:title type="html"><![CDATA[Workers at Amazon’s Staten Island warehouse strike on Monday.]]></media:title>
+				<media:description>A protester stands in front of an Amazon facility holding a sign that reads &quot;Money come and go but health is irreplaceable #Shut down Amazon&quot;</media:description>
+			</media:content>
+		</item>
+		<item>
+			<slate:id>ck8luifm60071ukm6nq58h31j</slate:id>
+			<title><![CDATA[Biden Tells Sanders He Will Begin Vetting Potential VP Candidates]]></title>
+			<link>https://slate.com/news-and-politics/2020/04/biden-begin-vetting-potential-vp-candidates.html?via=rss</link>
+			<pubDate>Sat, 04 April 2020 16:51:33 +0000</pubDate>
+			<guid isPermaLink="true">https://slate.com/news-and-politics/2020/04/biden-begin-vetting-potential-vp-candidates.html</guid>
+			<description><![CDATA[At a virtual fundraising event, the former vice president said he would announce a committee to vet potential running mates around mid-April. ]]></description>
+			<dc:creator>Daniel Politi</dc:creator>
+			<media:content url="https://compote.slate.com/images/35c8a895-27d1-416b-ae56-e4a588f6bab2.jpeg?width=780&amp;height=520&amp;rect=4716x3144&amp;offset=0x648" medium="image">
+				<media:credit><![CDATA[MANDEL NGAN/Getty Images]]></media:credit>
+				<media:title type="html"><![CDATA[Democratic presidential hopeful former Vice President Joe Biden is seen on stage as he and Senator Bernie Sanders take part in the 11th Democratic Party 2020 presidential debate in a CNN Washington Bureau studio in Washington, DC on March 15, 2020.]]></media:title>
+			</media:content>
+		</item>
+		<item>
+			<slate:id>ck8lotucr003o08mcejd1shd3</slate:id>
+			<title><![CDATA[Trump Fires Intelligence Watchdog Who First Told Congress of Whistleblower Complaint]]></title>
+			<link>https://slate.com/news-and-politics/2020/04/trump-fires-michael-atkinson-intelligence-watchdog-whistleblower-complaint.html?via=rss</link>
+			<pubDate>Sat, 04 April 2020 14:11:56 +0000</pubDate>
+			<guid isPermaLink="true">https://slate.com/news-and-politics/2020/04/trump-fires-michael-atkinson-intelligence-watchdog-whistleblower-complaint.html</guid>
+			<description><![CDATA[The president informed Congress of the move late on Friday night in the middle of the coronavirus crisis.]]></description>
+			<dc:creator>Daniel Politi</dc:creator>
+			<media:content url="https://compote.slate.com/images/af2f0023-1df1-4406-a5d8-f9a521020b4a.jpeg?width=780&amp;height=520&amp;rect=3477x2318&amp;offset=0x0" medium="image">
+				<media:credit><![CDATA[Mark Wilson/Getty Images]]></media:credit>
+				<media:title type="html"><![CDATA[Michael Atkinson, Inspector General of the Intelligence Community, leaves a meeting in the U.S. Capitol October 4, 2019 in Washington, D.C.]]></media:title>
+			</media:content>
+		</item>
+		<item>
+			<slate:id>ck8khltrn00465skno4q3ik22</slate:id>
+			<title><![CDATA[Two Tricks to Help Your Family Get Along Better]]></title>
+			<link>https://slate.com/human-interest/2020/04/write-a-mission-statement-and-hold-family-meetings.html?via=rss</link>
+			<pubDate>Sat, 04 April 2020 14:00:02 +0000</pubDate>
+			<guid isPermaLink="true">https://slate.com/human-interest/2020/04/write-a-mission-statement-and-hold-family-meetings.html</guid>
+			<description><![CDATA[Decentralize power, write a mission statement, and hold family meetings. ]]></description>
+			<dc:creator>Charles Duhigg</dc:creator>
+			<media:content url="https://compote.slate.com/images/343f5883-9206-478c-9f34-197ad645d150.jpeg" medium="image">
+				<media:credit><![CDATA[Photo illustration by Slate. Photo by Thomas Barwick/DigitalVision via Getty Images Plus.]]></media:credit>
+				<media:description>Mother with children at table.</media:description>
+			</media:content>
+		</item>
+		<item>
+			<slate:id>ck8kolrqb007ot2m4p8qoud4k</slate:id>
+			<title><![CDATA[Help! My Date Ghosted Me After He Found My Social Media Posts About My Dead Husband.]]></title>
+			<link>https://slate.com/human-interest/2020/04/dear-prudence-date-ghosted-social-media-posts-dead-husband.html?via=rss</link>
+			<pubDate>Sat, 04 April 2020 12:00:01 +0000</pubDate>
+			<guid isPermaLink="true">https://slate.com/human-interest/2020/04/dear-prudence-date-ghosted-social-media-posts-dead-husband.html</guid>
+			<description><![CDATA[It’s ridiculous to feel threatened by someone who died—right?]]></description>
+			<dc:creator>Danny M. Lavery</dc:creator>
+			<media:content url="https://compote.slate.com/images/a90c2fac-e829-43de-a5a4-7636e1326149.jpeg?width=780&amp;height=520&amp;rect=1560x1040&amp;offset=0x0" medium="image">
+				<media:credit><![CDATA[Photo illustration by Slate. Photos by Biserka Stojanovic/iStock/Getty Images Plus and Isaac Mehegan on Unsplash.]]></media:credit>
+				<media:description>A woman looking sad and staring next to a man whose back is turned</media:description>
+			</media:content>
+		</item>
+		<item>
+			<slate:id>ck8kkpnhr005mukm665j27l32</slate:id>
+			<title><![CDATA[Too Much Oil, Not Enough Toilet Paper]]></title>
+			<link>https://slate.com/podcasts/slate-money/2020/04/the-toilet-paper-supply-chain?via=rss</link>
+			<pubDate>Sat, 04 April 2020 10:00:03 +0000</pubDate>
+			<guid isPermaLink="true">https://slate.com/podcasts/slate-money/2020/04/the-toilet-paper-supply-chain</guid>
+			<description><![CDATA[Slate Money talks about small business loans, the toilet paper shortage, and Trump’s market-moving oil tweet.
+]]></description>
+			<dc:creator>Emily Peck, Felix Salmon, and Anna Szymanski</dc:creator>
+			<media:content url="https://compote.slate.com/images/bb44330d-b6d6-4ba7-b5d3-99d11f5996ad.jpeg?width=780&amp;height=520&amp;rect=1560x1040&amp;offset=0x0" medium="image">
+			</media:content>
+		</item>
+		<item>
+			<slate:id>ck8kpb2p0002o08mc2gvlrogr</slate:id>
+			<title><![CDATA[The Directors of Netflix’s <em>Crip Camp </em>on What the Documentary Can Teach Us Today]]></title>
+			<link>https://slate.com/culture/2020/04/crip-cramp-netflix-documentary-disability-rights-interview-directors.html?via=rss</link>
+			<pubDate>Sat, 04 April 2020 09:40:03 +0000</pubDate>
+			<guid isPermaLink="true">https://slate.com/culture/2020/04/crip-cramp-netflix-documentary-disability-rights-interview-directors.html</guid>
+			<description><![CDATA[The new movie was supposed to debut in theaters, but the filmmakers see silver linings in the timing of its release.]]></description>
+			<dc:creator>Cornelia Channing</dc:creator>
+			<media:content url="https://compote.slate.com/images/fd9f41e8-fc90-4c0c-85e2-b199a34e3da0.jpeg?width=780&amp;height=520&amp;rect=1560x1040&amp;offset=0x0" medium="image">
+				<media:credit><![CDATA[Courtesy Netflix]]></media:credit>
+				<media:description>A black-and-white photo of protestors, some of them in wheelchairs, rallying outside of the White House. One of the signs encourages the president to &quot;Sign 504 now.&quot;</media:description>
+			</media:content>
+		</item>
+		<item>
+			<slate:id>ck8kt8qu0002mskm47z93xznc</slate:id>
+			<title><![CDATA[Miami and Mayor Suarez’s Plasma]]></title>
+			<link>https://slate.com/podcasts/the-gist/2020/04/miami-mayor-frances-suarez-covid-19?via=rss</link>
+			<pubDate>Sat, 04 April 2020 01:59:38 +0000</pubDate>
+			<guid isPermaLink="true">https://slate.com/podcasts/the-gist/2020/04/miami-mayor-frances-suarez-covid-19</guid>
+			<description><![CDATA[Having recovered from COVID-19, the mayor is participating in an experimental treatment for the virus.    ]]></description>
+			<dc:creator>Mike Pesca</dc:creator>
+			<media:content url="https://compote.slate.com/images/ad728318-95b3-44de-a044-7d7c831cc76f.jpeg?width=780&amp;height=520&amp;rect=1143x762&amp;offset=1286x178" medium="image">
+			</media:content>
+		</item>
+		<item>
+			<slate:id>ck8kct722004bu2m6i6d9dwwd</slate:id>
+			<title><![CDATA[Coronavirus Supply Czar Jared Kushner Demonstrates He Has No Grasp on Coronavirus Supply Situation]]></title>
+			<link>https://slate.com/news-and-politics/2020/04/jared-kushner-coronavirus-conference-appearance.html?via=rss</link>
+			<pubDate>Fri, 03 April 2020 23:24:32 +0000</pubDate>
+			<guid isPermaLink="true">https://slate.com/news-and-politics/2020/04/jared-kushner-coronavirus-conference-appearance.html</guid>
+			<description><![CDATA[There’s nothing behind the facade, but the facade itself isn’t that impressive either.]]></description>
+			<dc:creator>Ben Mathis-Lilley</dc:creator>
+			<media:content url="https://compote.slate.com/images/9099b0f6-abb3-491d-a1c6-d32651eee62e.jpeg?width=780&amp;height=520&amp;rect=1024x683&amp;offset=0x0" medium="image">
+				<media:credit><![CDATA[Mandel Ngan/AFP/Getty Images]]></media:credit>
+				<media:title type="html"><![CDATA[Jared Kushner at the White House on Thursday.]]></media:title>
+				<media:description>Kushner stands beside a video screen displaying a graphic which claims the federal government has shipped 22.4 million protective gloves.</media:description>
+			</media:content>
+		</item>
+		<item>
+			<slate:id>ck8krh4yd003oy0mf3dp35x3c</slate:id>
+			<title><![CDATA[A Comprehensive Guide to What Kind of Mask You Should Wear and Why]]></title>
+			<link>https://slate.com/technology/2020/04/comprehensive-guide-masks.html?via=rss</link>
+			<pubDate>Fri, 03 April 2020 22:37:23 +0000</pubDate>
+			<guid isPermaLink="true">https://slate.com/technology/2020/04/comprehensive-guide-masks.html</guid>
+			<description><![CDATA[Yes, you should donate N95s if you have them.]]></description>
+			<dc:creator>Shannon Palus</dc:creator>
+			<media:content url="https://compote.slate.com/images/5b2fdcb9-dae0-494f-8ef1-24e8e49e7b3f.jpeg?width=780&amp;height=520&amp;rect=3880x2587&amp;offset=69x0" medium="image">
+				<media:credit><![CDATA[Olivier Douliery/Getty Images]]></media:credit>
+				<media:title type="html"><![CDATA[A woman wears a mask at the Lincoln Memorial on the National Mall.]]></media:title>
+				<media:description>A woman in profile wearing a face mask printed with seashells, with the Lincoln Memorial and reflecting pool in the background.</media:description>
+			</media:content>
+		</item>
+		<item>
+			<slate:id>ck8kqr61a0053ximf2bl4otgy</slate:id>
+			<title><![CDATA[The Unsettled Mood on Liberty University’s Campus as COVID-19 Advances]]></title>
+			<link>https://slate.com/human-interest/2020/04/mood-at-liberty-university-coronavirus-pandemic.html?via=rss</link>
+			<pubDate>Fri, 03 April 2020 22:31:39 +0000</pubDate>
+			<guid isPermaLink="true">https://slate.com/human-interest/2020/04/mood-at-liberty-university-coronavirus-pandemic.html</guid>
+			<description><![CDATA["I really feel I'm being gaslit."]]></description>
+			<dc:creator>Ruth Graham</dc:creator>
+			<media:content url="https://compote.slate.com/images/25860832-051d-45fc-a55f-e6eddf05a84f.jpeg?width=780&amp;height=520&amp;rect=5266x3510&amp;offset=862x21" medium="image">
+				<media:credit><![CDATA[Amanda Andrade-Rhoades/AFP via Getty Images]]></media:credit>
+				<media:title type="html"><![CDATA[A student at Liberty tries to open up her dormitory window on Tuesday.]]></media:title>
+				<media:description>A young woman viewed through her window in a brick building.</media:description>
+			</media:content>
+		</item>
+		<item>
+			<slate:id>ck8kkq6sy005h5cjfyqqvcenp</slate:id>
+			<title><![CDATA[The Tiger King of the 19th Century]]></title>
+			<link>https://slate.com/culture/2020/04/tiger-king-19th-century-private-zoos-carl-hagenbeck.html?via=rss</link>
+			<pubDate>Fri, 03 April 2020 20:44:30 +0000</pubDate>
+			<guid isPermaLink="true">https://slate.com/culture/2020/04/tiger-king-19th-century-private-zoos-carl-hagenbeck.html</guid>
+			<description><![CDATA[Joe Exotic and the long history of private zoos.]]></description>
+			<dc:creator>Betsy Golden Kellem</dc:creator>
+			<media:content url="https://compote.slate.com/images/92643b02-41e8-4d7c-a243-5c213266a119.jpeg?width=780&amp;height=520&amp;rect=1560x1040&amp;offset=0x0" medium="image">
+				<media:credit><![CDATA[Photo illustration by Slate. Photos by Niermann/ullstein bild via Getty Images and Netflix.]]></media:credit>
+				<media:title type="html"><![CDATA[Carl Hagenbeck and Joe Exotic.]]></media:title>
+				<media:description>Carl Gottfried Wilhelm Heinrich Hagenbeck and Joe Exotic</media:description>
+			</media:content>
+		</item>
+	</channel>
+</rss>
